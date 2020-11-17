@@ -6,7 +6,7 @@
 * [Table of Contents](#TableOfContents)
 * [LED_Fade](#LED_Fade)
 * [HelloFunctions](#HelloFunctions)
-* [NewPing()](#NewPing())
+* [NewPing](#NewPing)
 ---
 
 ## LED_Fade
@@ -56,7 +56,7 @@ draw it yourself, take a picture, make a fritzing, whatever you want to EFFECTIV
 
 ### Reflection
 
-## NewPing()
+## NewPing
 
 ### Description & Code
 Description goes here
