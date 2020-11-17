@@ -5,8 +5,8 @@
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [LED_Fade](#LED_Fade)
-* [Hello_LCD](#Hello_LCD)
-* [FillMeInLAter](#FillMeInLAter)
+* [HelloFunctions](#HelloFunctions)
+* [NewPing()](#NewPing())
 ---
 
 ## LED_Fade
