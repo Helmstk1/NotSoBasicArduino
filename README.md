@@ -36,3 +36,24 @@ https://create.arduino.cc/editor/helmstk1/9e044cca-43d7-4d93-885f-e6dec5b4f769/p
 ### Images
 
 ### Reflection
+
+## Hello_LCD
+
+### Description & Code
+Description goes here
+
+Here's how you make code look like code:
+
+```C++
+Code goes here
+```
+Talk about how the code works, here....
+
+### Evidence
+link goes here
+
+### Images
+draw it yourself, take a picture, make a fritzing, whatever you want to EFFECTIVELY communicate how its put together.
+
+### Reflection
+
